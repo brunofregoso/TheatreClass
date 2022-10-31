@@ -1,4 +1,8 @@
 # APCSALab
+This problem was taken from Tim Gallagher, the solution was made by me 
+
+
+
 The customer class represents an object per each customer that wishes to be seated in the theatre.
 Methods include constructers for the information that pertains per customer object such as name in height, we wish to know height to make sure the shortest people
 are seated in the front. 
